@@ -1,5 +1,5 @@
 # bloodglucose
-Using Recurrent Neural Networks for time series forecasting in blood glucose level data
+Using Recurrent Neural Networks (RNNs) (mainly LSTMs) for time series forecasting in blood glucose level data
 
 Report:
 bloodglucose/fall2016.pdf
